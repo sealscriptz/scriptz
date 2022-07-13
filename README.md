@@ -7,4 +7,5 @@ Introducing SealScriptz, my new project. Just click a script from this list, let
 ## Script List
 ### Scripts to Download Files/Apps
 - [Download Brave Browser](https://cdn.jsdelivr.net/gh/sealscriptz/scriptz@main/dl/brave.bat) - This script will download and install the Brave Browser (it's Google Chrome, but with an adblocker and access to the darkweb)
+- [Download Discord (AIO)](https://cdn.jsdelivr.net/gh/sealscriptz/scriptz@main/dl/discord.bat) - This script will let you download Discord Stable, Canary, PTB and BetterDiscord, all in one script.
 - [Download Malwatch/Enderman Malware Repo](https://cdn.jsdelivr.net/gh/sealscriptz/scriptz@main/dl/malwatch.bat) - This script will download and display the Malwatch/Enderman malware repository as a ZIP. Do not run malware that violates the SealVM rules. SealScriptz and Malwatch/Enderman are not liable for any damages. If a pass is asked, it's `mysubsarethebest`.
